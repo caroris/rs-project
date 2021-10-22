@@ -1,0 +1,4 @@
+name: rs-project-env
+channels:
+  - defaults
+prefix: C:\Users\caroline\anaconda3\envs\rs-project-env
