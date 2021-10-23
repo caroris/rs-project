@@ -15,3 +15,25 @@ X_train_validate_rev is a dataframe with the following dimension: 12906 rows x 8
 ### Expected output of the Hyperparameters.ipynb file (cell 6):
 
 "The obtained log loss is 0.153"
+
+
+### IMPORTANT: Remember to activate the environment
+
+After cloning this repository, cd into the folder on your local device.
+
+Then activate the environment by typing the following code into your GitBash terminal:
+
+
+conda env create -f environment.yml
+
+
+Once the environment is created and the packages are installed, activate the environment in order to successfully run the scrips through Jupyter Notebook.
+
+The environment name is: "rs-project-env"
+
+
+More information can be found in the Conda documentation:
+
+https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+
