@@ -21,7 +21,7 @@ X_train_validate_rev is a dataframe with the following dimension: 12906 rows x 8
 
 After cloning this repository, cd into the folder on your local device.
 
-Then activate the environment by typing the following code into your GitBash terminal:
+Then create the environment by typing the following code into your GitBash terminal:
 
 
 conda env create -f environment.yml
