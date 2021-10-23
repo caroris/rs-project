@@ -5,7 +5,7 @@ This project aims to predict mode choice behaviour for individuals non-car ownin
 The "nhts_train_validate.csv" file is used and is available through the Federal Highway Administration (FHWA).
 
 The project is not yet complete and includes two python jupyter notebooks up to now: Pre-processing.ipynb and Hyperparameters.ipynb.
-It is important to first run the Pre-processing file before the Hyperparameters file.
+**It is important to first run the Pre-processing file before the Hyperparameters file.**
 
 ### Expected output of the Pre-processing.ipynb file (cell 11):
 
