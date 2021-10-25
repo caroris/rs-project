@@ -46,7 +46,7 @@ The code can be run with Python 3.8.
 
 ## Author
 
-Caroline Risous - caroline.risoud@epfl.ch
+Caroline Risoud - caroline.risoud@epfl.ch
 
 ## Version history
 
